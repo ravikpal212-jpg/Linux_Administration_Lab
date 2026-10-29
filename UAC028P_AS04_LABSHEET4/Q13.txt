@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 13: Display detailed password-aging information for labuser3 using chage.
+
+Answer / command:
+sudo chage -l labuser3

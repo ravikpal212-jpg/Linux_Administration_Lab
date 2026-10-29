@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 4: Create a new user named labuser1 using useradd and verify that the account has been created.
+
+Answer / command:
+sudo useradd labuser1; id labuser1

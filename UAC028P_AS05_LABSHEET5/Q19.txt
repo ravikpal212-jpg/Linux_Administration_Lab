@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 19: Use line numbers to display the current line number and jump directly to a specified line.
+
+Answer / command:
+Esc then :set number; :12 to go to line 12; Ctrl+g shows current position

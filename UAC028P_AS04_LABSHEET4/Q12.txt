@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 12: Lock labuser3 and verify that the account is locked. Then unlock it and verify the result.
+
+Answer / command:
+sudo usermod -L labuser3; sudo passwd -S labuser3; sudo usermod -U labuser3; sudo passwd -S labuser3

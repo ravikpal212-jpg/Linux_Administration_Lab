@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 20: Clean up all test users and lab-only groups created during this lab. Verify that no unintended system account has been modified.
+
+Answer / command:
+sudo userdel -r labuser3 2>/dev/null; sudo userdel -r workflowuser 2>/dev/null; sudo groupdel userlabgroup 2>/dev/null; sudo groupdel workflowgroup 2>/dev/null; getent passwd labuser1 labuser2 labuser3 workflowuser

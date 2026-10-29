@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 15: Search backward for a specified word in the file and move between matching occurrences.
+
+Answer / command:
+?word then n for next backward match

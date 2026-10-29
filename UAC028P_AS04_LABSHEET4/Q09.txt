@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 9: Use usermod to change labuser2's login shell to /bin/bash and verify the change.
+
+Answer / command:
+sudo usermod -s /bin/bash labuser2; getent passwd labuser2

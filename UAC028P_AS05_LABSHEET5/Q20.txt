@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 20: Create, edit, search, replace, copy, paste, save and exit a text file using vi/vim as a complete workflow.
+
+Answer / command:
+vim lab5.txt  # i to edit; Esc; /word; :%s/old/new/g; yy/p; :wq

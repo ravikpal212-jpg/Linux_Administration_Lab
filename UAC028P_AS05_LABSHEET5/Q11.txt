@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 11: Delete a character, a word and a complete line using appropriate vi/vim commands.
+
+Answer / command:
+x = delete character; dw = delete word; dd = delete line

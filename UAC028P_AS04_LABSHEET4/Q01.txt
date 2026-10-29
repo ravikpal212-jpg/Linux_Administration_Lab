@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 1: Display the current logged-in username, UID, primary GID and supplementary groups.
+
+Answer / command:
+id

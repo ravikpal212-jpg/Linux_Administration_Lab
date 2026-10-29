@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 5: Create labuser2 with a home directory and verify the home directory and its ownership.
+
+Answer / command:
+sudo useradd -m labuser2; ls -ld /home/labuser2

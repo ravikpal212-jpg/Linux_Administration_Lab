@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 14: Set an account expiration date for labuser3 and verify the expiration information.
+
+Answer / command:
+sudo chage -E 2026-12-31 labuser3; sudo chage -l labuser3

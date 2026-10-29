@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 1: Create a new file named lab5.txt using the vi/vim editor and enter at least five lines of text.
+
+Answer / command:
+vim lab5.txt  # press i, enter 5 lines, Esc, :wq

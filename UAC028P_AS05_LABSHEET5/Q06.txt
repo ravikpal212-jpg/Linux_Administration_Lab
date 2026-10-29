@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 6: Save the current file without exiting vi/vim.
+
+Answer / command:
+Esc then :w

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 6: Create labuser3 with /bin/bash as the login shell and verify the assigned shell.
+
+Answer / command:
+sudo useradd -m -s /bin/bash labuser3; getent passwd labuser3

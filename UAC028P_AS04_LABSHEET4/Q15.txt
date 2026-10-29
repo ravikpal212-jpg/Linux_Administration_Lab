@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 15: Modify labuser1 so that a specified existing group becomes the user's primary group. Verify the result.
+
+Answer / command:
+sudo usermod -g existinggroup labuser1; id labuser1

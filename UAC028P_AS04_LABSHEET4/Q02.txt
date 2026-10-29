@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 2: Display the account entry of a test user from /etc/passwd and identify the fields stored in the entry.
+
+Answer / command:
+getent passwd labuser1; # fields: name, password placeholder, UID, GID, GECOS, home, shell

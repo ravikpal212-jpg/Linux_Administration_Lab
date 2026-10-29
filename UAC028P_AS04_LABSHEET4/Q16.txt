@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 16: Display the users and groups associated with a selected account using id, groups and getent.
+
+Answer / command:
+id labuser1; groups labuser1; getent passwd labuser1; getent group

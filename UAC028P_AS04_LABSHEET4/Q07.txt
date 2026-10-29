@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 7: Set a password for labuser1 and verify the password/account status.
+
+Answer / command:
+sudo passwd labuser1; sudo passwd -S labuser1

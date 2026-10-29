@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 18: Undo the last change and then redo the change using vi/vim commands.
+
+Answer / command:
+u = undo; Ctrl+r = redo

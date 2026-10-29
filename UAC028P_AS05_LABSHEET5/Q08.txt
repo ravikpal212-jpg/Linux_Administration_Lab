@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 8: Exit vi/vim without saving the changes made to a file.
+
+Answer / command:
+Esc then :q!

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 16: Replace the first occurrence of a specified word on the current line using vi/vim.
+
+Answer / command:
+:%s/old/new/  # first occurrence on current line: :s/old/new/

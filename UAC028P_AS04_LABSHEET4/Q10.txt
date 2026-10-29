@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 10: Use usermod to change labuser2's home directory, first without moving the existing contents and then with the option that moves the contents.
+
+Answer / command:
+sudo usermod -d /home/labuser2_new labuser2; sudo usermod -d /home/labuser2_new -m labuser2

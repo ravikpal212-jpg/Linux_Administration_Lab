@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 2: Open an existing file named lab5.txt using vi/vim and display its contents.
+
+Answer / command:
+vim lab5.txt  # :q to exit after viewing

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 13: Copy multiple lines and paste them at another location in the file.
+
+Answer / command:
+3yy then move cursor and p

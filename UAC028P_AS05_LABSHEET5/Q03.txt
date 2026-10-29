@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 3: Demonstrate switching between Normal mode, Insert mode and Command-Line mode in vi/vim.
+
+Answer / command:
+Esc = Normal; i = Insert; : = Command-Line

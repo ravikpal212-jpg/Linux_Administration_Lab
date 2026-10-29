@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 18: Delete labuser2 and remove its home directory using the appropriate userdel option. Verify the result.
+
+Answer / command:
+sudo userdel -r labuser2; getent passwd labuser2; ls -ld /home/labuser2

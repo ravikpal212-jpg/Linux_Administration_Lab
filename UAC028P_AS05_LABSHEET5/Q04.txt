@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 4: Insert new text before and after the current cursor position and verify the changes.
+
+Answer / command:
+i inserts before cursor; a inserts after cursor; Esc to return

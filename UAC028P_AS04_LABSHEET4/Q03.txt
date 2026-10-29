@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 3: Display the password/account status of a test user without displaying the actual password.
+
+Answer / command:
+sudo passwd -S labuser1

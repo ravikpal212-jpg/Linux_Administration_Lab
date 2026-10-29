@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 9: Move the cursor to the beginning and end of a line using vi/vim commands.
+
+Answer / command:
+0 = line start; $ = line end

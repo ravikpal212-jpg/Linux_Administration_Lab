@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 10: Move the cursor to the beginning and end of the file using vi/vim commands.
+
+Answer / command:
+gg = file start; G = file end

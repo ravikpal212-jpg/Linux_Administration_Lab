@@ -1,0 +1,5 @@
+# Linux Lab Sheet 5 Vi Vim
+# Question 5: Add a new line below the current line and another new line above the current line using vi/vim commands.
+
+Answer / command:
+o = new line below; O = new line above

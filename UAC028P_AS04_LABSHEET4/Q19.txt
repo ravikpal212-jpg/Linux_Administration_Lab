@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 19: Create a complete user-management workflow: create a user, set a password, assign a shell, add a supplementary group, lock/unlock the account and verify all settings. Subject - Linux Lab Subject Code - UAC02P
+
+Answer / command:
+sudo useradd -m -s /bin/bash workflowuser; sudo passwd workflowuser; sudo groupadd workflowgroup; sudo usermod -aG workflowgroup workflowuser; id workflowuser; sudo usermod -L workflowuser; sudo usermod -U workflowuser

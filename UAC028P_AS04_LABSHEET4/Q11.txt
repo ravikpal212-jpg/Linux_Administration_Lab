@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 11: Create a supplementary group named userlabgroup and add labuser1 to it using usermod. Verify the membership.
+
+Answer / command:
+sudo groupadd userlabgroup; sudo usermod -aG userlabgroup labuser1; id labuser1

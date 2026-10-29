@@ -1,0 +1,5 @@
+# Linux Lab Sheet 4 User Management
+# Question 17: Delete labuser1 without removing its home directory. Verify the account entry and home directory separately.
+
+Answer / command:
+sudo userdel labuser1; getent passwd labuser1; ls -ld /home/labuser1
