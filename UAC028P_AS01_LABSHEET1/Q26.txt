@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 26: Use grep to search inside class_list.txt for any name containing a speciﬁc le er (e.g., 'a' or 'R').
+
+Answer / command:
+grep -i 'a' class_list.txt

@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 46: Debug / Safety Habit: Explain why running rm -rf * in an unveriﬁed path is hazardous, and state the safety veriﬁca on command habit that prevents accidental dele on.
+
+Answer / command:
+pwd; ls -la  # verify the path and targets before any rm command; avoid rm -rf *

@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 41: Combine ﬁnd and wc -l in a single pipeline to count how many total .txt ﬁles exist under your home directory tree.
+
+Answer / command:
+find ~ -type f -name '*.txt' | wc -l

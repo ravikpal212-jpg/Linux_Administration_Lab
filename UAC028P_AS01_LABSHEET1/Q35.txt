@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 35: Move two ﬁles (a.txt and b.txt) simultaneously into a target folder named archive/. Hard / Challenge Exercises (Q36–Q50)
+
+Answer / command:
+mkdir -p archive && mv a.txt b.txt archive/

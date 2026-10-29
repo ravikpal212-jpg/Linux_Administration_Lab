@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 39: Create a shell script ﬁle test.sh, grant it execute permissions using symbolic chmod syntax (+x), and write a comment inside explaining the permission string rwxr-xr--.
+
+Answer / command:
+printf '#!/bin/bash\n# rwxr-xr-- means owner rwx, group r-x, others r--\necho Test\n' > test.sh; chmod +x test.sh

@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 42: Find all directories (not regular ﬁles) inside /var/log using ﬁnd -type d.
+
+Answer / command:
+find /var/log -type d

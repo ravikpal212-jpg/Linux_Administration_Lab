@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 14: Display full system and kernel opera ng informa on using uname.
+
+Answer / command:
+uname -a

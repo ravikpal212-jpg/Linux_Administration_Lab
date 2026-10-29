@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 37: Use ﬁnd paired with -exec to locate all .log ﬁles in your current working path and display their contents in a single command line.
+
+Answer / command:
+find . -type f -name '*.log' -exec sh -c 'echo "--- $1"; cat "$1"' _ {} \;

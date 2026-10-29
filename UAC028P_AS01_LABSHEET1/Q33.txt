@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 33: Copy an en re directory structure (project/) into a new folder named project_backup/ recursively.
+
+Answer / command:
+cp -r project project_backup

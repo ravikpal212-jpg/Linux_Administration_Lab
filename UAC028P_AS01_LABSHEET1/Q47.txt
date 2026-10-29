@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 47: Use touch on an exis ng ﬁle to update its access and modiﬁca on mestamp to the current system me without modifying its contents.
+
+Answer / command:
+touch existing_file.txt

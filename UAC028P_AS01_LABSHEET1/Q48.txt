@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 48: Create a ﬁle containing mul ple duplicate lines, then use sort and uniq to display only unique lines from the ﬁle.
+
+Answer / command:
+printf 'apple\nbanana\napple\norange\nbanana\n' > duplicates.txt; sort duplicates.txt | uniq

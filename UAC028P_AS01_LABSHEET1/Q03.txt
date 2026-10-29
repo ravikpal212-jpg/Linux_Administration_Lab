@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 3: List all contents of your home directory, including hidden ﬁles (star ng with a dot), using appropriate ﬂags.
+
+Answer / command:
+ls -la ~

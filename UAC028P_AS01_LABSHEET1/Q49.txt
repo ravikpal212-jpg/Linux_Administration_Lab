@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 49: Redirect the stdout of a command (e.g., uname -a) to a ﬁle named sys_info.txt, then view its content.
+
+Answer / command:
+uname -a > sys_info.txt; cat sys_info.txt

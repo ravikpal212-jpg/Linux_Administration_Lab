@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 6: Navigate into the newly created myﬁrstlab directory using cd.
+
+Answer / command:
+cd myfirstlab

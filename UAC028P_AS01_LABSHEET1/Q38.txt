@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 38: Recursively search all ﬁles in your current directory tree for the word 'error' using grep -r.
+
+Answer / command:
+grep -rn 'error' .

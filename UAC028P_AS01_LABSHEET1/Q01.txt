@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 1: Print your current working directory to verify your location on in the ﬁlesystem.
+
+Answer / command:
+pwd

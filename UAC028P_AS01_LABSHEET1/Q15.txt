@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 15: Use the manual pages to look up the documenta on for the ls command.
+
+Answer / command:
+man ls

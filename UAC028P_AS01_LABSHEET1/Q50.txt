@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 50: Find all ﬁles in /var/log that were modiﬁed within the last 7 days using ﬁnd -m me.
+
+Answer / command:
+find /var/log -type f -mtime -7

@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 4: Display all ﬁles in long-lis ng format with human-readable ﬁle sizes using ls.
+
+Answer / command:
+ls -lh

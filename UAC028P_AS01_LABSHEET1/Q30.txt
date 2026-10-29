@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 30: Use wc -l to count the exact number of lines (students) in class_list.txt.
+
+Answer / command:
+wc -l class_list.txt

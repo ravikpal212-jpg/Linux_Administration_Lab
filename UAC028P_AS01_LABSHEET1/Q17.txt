@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 17: Use the wha s command to get a one-line descrip on of the mv command.
+
+Answer / command:
+whatis mv

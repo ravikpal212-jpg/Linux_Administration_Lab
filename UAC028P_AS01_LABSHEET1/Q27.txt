@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 27: Display line numbers along with matching text when searching for a string in class_list.txt using grep - n.
+
+Answer / command:
+grep -in 'a' class_list.txt

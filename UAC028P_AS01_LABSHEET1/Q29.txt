@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 29: Find all ﬁles ending with .txt in your home directory tree using the ﬁnd command.
+
+Answer / command:
+find ~ -type f -name '*.txt'

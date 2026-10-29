@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 5: Create a new directory named myﬁrstlab in your current directory.
+
+Answer / command:
+mkdir myfirstlab

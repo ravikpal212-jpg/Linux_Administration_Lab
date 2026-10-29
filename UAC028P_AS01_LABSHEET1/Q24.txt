@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 24: Create a directory named backup and copy students.txt into it without naviga ng out of your current directory.
+
+Answer / command:
+mkdir -p backup && cp students.txt backup/

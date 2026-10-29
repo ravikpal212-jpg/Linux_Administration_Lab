@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 45: Write a command that displays the 3 largest ﬁles in a directory by sor ng ls output by ﬁle size.
+
+Answer / command:
+ls -lS /path/to/directory | head -n 4

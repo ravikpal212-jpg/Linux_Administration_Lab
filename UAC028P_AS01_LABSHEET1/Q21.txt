@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 21: Create a ﬁle named students.txt and add 5 student names (one per line) using echo and the append redirec on operator (>>).
+
+Answer / command:
+printf 'Amit\nRiya\nRavi\nNeha\nAman\n' > students.txt

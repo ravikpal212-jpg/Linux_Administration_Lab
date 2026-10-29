@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 20: Delete the ﬁle c.txt you created inside the myﬁrstlab directory. Medium Exercises (Q21–Q35)
+
+Answer / command:
+rm myfirstlab/c.txt

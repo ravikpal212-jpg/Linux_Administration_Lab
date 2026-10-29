@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 44: Check the disk space consump on of a speciﬁc folder in human-readable format using du -sh.
+
+Answer / command:
+du -sh /path/to/folder

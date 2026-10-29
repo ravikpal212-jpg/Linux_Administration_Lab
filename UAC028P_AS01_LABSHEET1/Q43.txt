@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 43: Search for a speciﬁc ﬁle system conﬁgura on entry inside /etc/fstab using grep, ignoring case sensi vity.
+
+Answer / command:
+grep -i 'fstab' /etc/fstab

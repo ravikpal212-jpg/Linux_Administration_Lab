@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 40: Write a single-line command using chaining (&&) to create a folder demo, enter it, and list its contents.
+
+Answer / command:
+mkdir demo && cd demo && ls

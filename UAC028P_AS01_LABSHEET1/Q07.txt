@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 1
+# Question 7: Inside myﬁrstlab, create three empty text ﬁles: a.txt, b.txt, and c.txt using a single command.
+
+Answer / command:
+touch a.txt b.txt c.txt
