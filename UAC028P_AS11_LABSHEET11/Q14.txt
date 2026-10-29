@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 14: Create a ZIP archive containing an entire directory and verify its contents.
+
+Answer / command:
+zip -r archive_directory.zip archive_lab; unzip -l archive_directory.zip

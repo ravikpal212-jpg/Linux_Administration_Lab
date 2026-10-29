@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 17: Create a practice partition on a dedicated test disk or virtual disk using an appropriate partitioning tool, then verify it with lsblk. Do not modify the system disk. Subject - Linux Lab Subject Code - UAC02P
+
+Answer / command:
+sudo fdisk /dev/sdX  # only a dedicated disposable test disk/VM; never system disk

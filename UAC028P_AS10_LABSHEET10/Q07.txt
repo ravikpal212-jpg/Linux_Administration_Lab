@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 7: Display the mounted file system using df and identify its total, used and available space.
+
+Answer / command:
+df -h /mnt/labfs

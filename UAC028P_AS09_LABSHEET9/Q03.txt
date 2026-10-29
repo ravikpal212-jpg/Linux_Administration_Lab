@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 3: Display the size of the current directory and its contents using du.
+
+Answer / command:
+du -sh .

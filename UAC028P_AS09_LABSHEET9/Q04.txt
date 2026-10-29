@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 4: Display directory sizes in human-readable format and identify which directories are consuming the most space.
+
+Answer / command:
+du -h --max-depth=1 . | sort -h

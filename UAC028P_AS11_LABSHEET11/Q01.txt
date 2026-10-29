@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 1: Create a directory named archive_lab and create three text files inside it. Add sample content to each file.
+
+Answer / command:
+mkdir -p archive_lab; printf 'Alpha\n' > archive_lab/a.txt; printf 'Beta\n' > archive_lab/b.txt; printf 'Gamma\n' > archive_lab/c.txt

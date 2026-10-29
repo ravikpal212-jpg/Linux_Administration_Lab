@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 13: Reboot or remount the test system as appropriate and verify that the file system is automatically mounted according to /etc/fstab.
+
+Answer / command:
+sudo mount -a; findmnt /mnt/labfs  # verify after reboot only in a controlled test system

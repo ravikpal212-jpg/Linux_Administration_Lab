@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 14: Use findmnt and df to verify the device, mount point, file-system type and storage usage after the automatic mount.
+
+Answer / command:
+findmnt /mnt/labfs; df -h /mnt/labfs

@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 14: Unmount /mnt/labdisk using umount and verify that the file system is no longer mounted.
+
+Answer / command:
+sudo umount /mnt/labdisk; findmnt /mnt/labdisk

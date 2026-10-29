@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 17: Demonstrate the difference between checking a mounted file system and checking an unmounted file system, using a dedicated test partition and appropriate precautions. Subject - Linux Lab Subject Code - UAC02P
+
+Answer / command:
+Do not run e2fsck on a mounted filesystem; unmount the dedicated test partition first, then check it.

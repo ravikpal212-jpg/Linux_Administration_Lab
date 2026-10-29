@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 20: Demonstrate a complete archive and compression workflow using tar, gzip, gunzip, zip, and unzip, including verification after each operation.
+
+Answer / command:
+tar -cvf files.tar archive_lab; gzip -k archive_lab/a.txt; gunzip archive_lab/a.txt.gz; tar -czvf archive.tar.gz archive_lab; zip -r files.zip archive_lab; unzip -l files.zip; mkdir -p final_restore; tar -xzvf archive.tar.gz -C final_restore

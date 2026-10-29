@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 20: Perform a complete disk and storage management workflow: inspect disks and partitions, check disk usage, mount a dedicated test partition, create and verify data, unmount it and confirm the final storage state.
+
+Answer / command:
+lsblk -f; df -h; sudo mount /dev/sdXN /mnt/labdisk; sudo touch /mnt/labdisk/test.txt; findmnt; sudo umount /mnt/labdisk; findmnt

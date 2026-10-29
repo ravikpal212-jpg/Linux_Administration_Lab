@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 10: Create a zip archive named files.zip containing three selected files.
+
+Answer / command:
+zip files.zip archive_lab/a.txt archive_lab/b.txt archive_lab/c.txt

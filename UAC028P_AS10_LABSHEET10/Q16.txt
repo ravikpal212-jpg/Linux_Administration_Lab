@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 16: Run an appropriate file-system checking command on the dedicated test file system after it has been safely unmounted.
+
+Answer / command:
+sudo umount /mnt/labfs; sudo e2fsck -f /dev/sdXN  # only when unmounted

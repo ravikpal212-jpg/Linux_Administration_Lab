@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 16: Display the partition table of a selected disk using an appropriate command and identify the partitions and their sizes.
+
+Answer / command:
+sudo fdisk -l /dev/sdX  # replace with the correct disk

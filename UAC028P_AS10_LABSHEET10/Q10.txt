@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 10: Display the current contents of /etc/fstab and identify the fields used to define a persistent file- system mount.
+
+Answer / command:
+cat /etc/fstab  # fields: source, mount point, type, options, dump, fsck order

@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 17: Compare the archive contents and file sizes of a tar archive and a compressed tar.gz archive.
+
+Answer / command:
+ls -lh files.tar archive.tar.gz; tar -tvf files.tar; tar -tzvf archive.tar.gz

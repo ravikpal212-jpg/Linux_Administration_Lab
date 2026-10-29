@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 12: Display the disk-space usage of the mounted /mnt/labdisk file system using df.
+
+Answer / command:
+df -h /mnt/labdisk

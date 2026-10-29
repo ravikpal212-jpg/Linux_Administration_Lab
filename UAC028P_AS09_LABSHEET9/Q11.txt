@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 11: Attach a suitable test storage device or partition to /mnt/labdisk and verify that it is mounted correctly.
+
+Answer / command:
+lsblk -f; sudo mount /dev/sdXN /mnt/labdisk; findmnt /mnt/labdisk  # replace with a dedicated test partition

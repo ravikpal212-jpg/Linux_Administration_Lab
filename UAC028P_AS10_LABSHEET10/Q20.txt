@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 20: Perform a complete file-system workflow: create a file system, mount it, verify it, configure /etc/fstab using UUID, check the file system safely, unmount it and clean up all lab changes.
+
+Answer / command:
+lsblk -f; sudo mkfs.ext4 /dev/sdXN; sudo mkdir -p /mnt/labfs; sudo mount /dev/sdXN /mnt/labfs; findmnt; df -h; sudo umount /mnt/labfs; # only test disk

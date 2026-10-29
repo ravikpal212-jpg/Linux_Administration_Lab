@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 19: Create a complete backup archive of a practice directory using tar.gz, then restore it into another directory.
+
+Answer / command:
+tar -czvf practice_backup.tar.gz archive_lab; mkdir -p restored_backup; tar -xzvf practice_backup.tar.gz -C restored_backup

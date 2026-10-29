@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 12: Extract files.zip into a directory named extracted_zip.
+
+Answer / command:
+mkdir -p extracted_zip; unzip files.zip -d extracted_zip

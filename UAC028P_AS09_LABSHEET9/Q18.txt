@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 18: Create a file system on a dedicated practice partition, mount it on /mnt/labdisk and verify the file system using df, lsblk and findmnt.
+
+Answer / command:
+sudo mkfs.ext4 /dev/sdXN; sudo mount /dev/sdXN /mnt/labdisk; df -h /mnt/labdisk; lsblk -f; findmnt /mnt/labdisk

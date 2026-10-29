@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 2: Display disk-space usage in human-readable format using df and identify the filesystem, total, used, available and mounted-on fields.
+
+Answer / command:
+df -h

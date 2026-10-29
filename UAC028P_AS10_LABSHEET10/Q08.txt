@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 8: Create a test file inside /mnt/labfs and verify that the file is stored on the mounted file system.
+
+Answer / command:
+sudo touch /mnt/labfs/test.txt; findmnt -T /mnt/labfs/test.txt

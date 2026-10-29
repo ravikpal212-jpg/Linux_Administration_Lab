@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 13: Use unzip to extract only one selected file from a ZIP archive.
+
+Answer / command:
+unzip files.zip archive_lab/a.txt -d extracted_one

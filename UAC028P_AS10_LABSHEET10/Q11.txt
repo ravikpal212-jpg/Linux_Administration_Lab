@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 11: Add an entry for the dedicated test file system to /etc/fstab using its UUID and an appropriate mount point.
+
+Answer / command:
+sudo blkid /dev/sdXN  # add UUID=<uuid> /mnt/labfs ext4 defaults 0 2 to /etc/fstab after verifying UUID

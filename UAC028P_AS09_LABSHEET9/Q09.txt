@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 9: Identify the currently mounted file systems and their mount points using findmnt or an appropriate command.
+
+Answer / command:
+findmnt

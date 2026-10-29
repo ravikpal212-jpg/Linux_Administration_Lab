@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 19: Unmount the test file system, remove the lab-specific /etc/fstab entry and verify that the system no longer attempts to mount it automatically.
+
+Answer / command:
+sudo umount /mnt/labfs; sudoedit /etc/fstab  # remove only lab-specific line; verify with grep and findmnt

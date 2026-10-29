@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 1: Display the available block devices and identify a dedicated test partition that can be used for file- system practice.
+
+Answer / command:
+lsblk -f

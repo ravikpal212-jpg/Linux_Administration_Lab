@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 12: Verify the syntax and test the /etc/fstab entry without rebooting by using the appropriate mount command.
+
+Answer / command:
+sudo mount -a; findmnt /mnt/labfs

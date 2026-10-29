@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 4: Extract files.tar into a new directory named extracted_tar.
+
+Answer / command:
+mkdir -p extracted_tar; tar -xvf files.tar -C extracted_tar

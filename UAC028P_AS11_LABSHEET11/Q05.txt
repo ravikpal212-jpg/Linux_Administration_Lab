@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 5: Create a gzip-compressed file from a text file and observe the change in its filename.
+
+Answer / command:
+gzip -k archive_lab/a.txt; ls -l archive_lab/a.txt*

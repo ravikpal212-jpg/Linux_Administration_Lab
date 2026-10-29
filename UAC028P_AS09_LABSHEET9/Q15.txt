@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 15: Attempt to access a mounted file system that is currently in use, identify why unmounting may fail, and safely release the process before unmounting.
+
+Answer / command:
+sudo lsof +f -- /mnt/labdisk; # close processes using it, then sudo umount /mnt/labdisk

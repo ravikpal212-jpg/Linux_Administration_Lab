@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 2: Display the current file-system type, UUID and mount-point information for the selected test partition.
+
+Answer / command:
+lsblk -f /dev/sdXN; sudo blkid /dev/sdXN

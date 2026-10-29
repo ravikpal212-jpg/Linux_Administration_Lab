@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 15: Create a gzip-compressed tar archive and explain the difference between tar and gzip in the command sequence used.
+
+Answer / command:
+tar -czvf archive.tar.gz archive_lab  # tar bundles files; gzip compresses the resulting archive

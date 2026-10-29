@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 8: Display additional file-system information for block devices using an appropriate lsblk option.
+
+Answer / command:
+lsblk -f

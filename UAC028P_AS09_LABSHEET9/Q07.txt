@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 7: Use lsblk to identify the disk names, partition names, sizes, types and mount points on the system.
+
+Answer / command:
+lsblk -o NAME,SIZE,TYPE,MOUNTPOINTS

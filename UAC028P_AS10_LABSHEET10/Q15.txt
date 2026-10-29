@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 15: Display the file-system UUID and compare it with the UUID used in the /etc/fstab entry.
+
+Answer / command:
+sudo blkid /dev/sdXN; grep '<uuid>' /etc/fstab

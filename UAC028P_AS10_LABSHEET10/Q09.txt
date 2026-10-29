@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 9: Unmount the test file system using umount and verify that /mnt/labfs is no longer an active mount point.
+
+Answer / command:
+sudo umount /mnt/labfs; findmnt /mnt/labfs

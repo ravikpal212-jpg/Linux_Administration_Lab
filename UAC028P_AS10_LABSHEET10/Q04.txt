@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 4: Display detailed information about the newly created file system and identify its UUID.
+
+Answer / command:
+sudo blkid /dev/sdXN; sudo tune2fs -l /dev/sdXN | head

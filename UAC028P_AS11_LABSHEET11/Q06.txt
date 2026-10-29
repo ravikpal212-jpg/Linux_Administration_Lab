@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 6: Use gunzip to decompress the gzip-compressed file and verify that the original file is restored.
+
+Answer / command:
+gunzip archive_lab/a.txt.gz; ls -l archive_lab/a.txt

@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 3: List the contents of files.tar without extracting it.
+
+Answer / command:
+tar -tvf files.tar

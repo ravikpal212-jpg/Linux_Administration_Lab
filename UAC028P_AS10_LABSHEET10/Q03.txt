@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 3: Create an ext4 file system on a dedicated test partition using mkfs and verify the file-system creation.
+
+Answer / command:
+sudo mkfs.ext4 /dev/sdXN  # destructive: only dedicated test partition

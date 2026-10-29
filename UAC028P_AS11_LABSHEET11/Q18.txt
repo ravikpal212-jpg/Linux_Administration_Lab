@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 18: Use appropriate commands to decompress and extract a tar.gz archive and a ZIP archive into separate directories.
+
+Answer / command:
+mkdir -p restore_tar_gz restore_zip; tar -xzvf archive.tar.gz -C restore_tar_gz; unzip files.zip -d restore_zip

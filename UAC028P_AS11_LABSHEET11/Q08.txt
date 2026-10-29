@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 8: List the contents of archive.tar.gz without extracting it.
+
+Answer / command:
+tar -tzvf archive.tar.gz

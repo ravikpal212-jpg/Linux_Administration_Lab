@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 13: Create a test file inside /mnt/labdisk and verify that the file is stored on the mounted file system.
+
+Answer / command:
+sudo touch /mnt/labdisk/test.txt; findmnt -T /mnt/labdisk/test.txt

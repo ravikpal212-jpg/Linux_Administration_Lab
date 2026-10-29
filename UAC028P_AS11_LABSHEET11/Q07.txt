@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 7: Create a tar.gz archive named archive.tar.gz containing the complete archive_lab directory.
+
+Answer / command:
+tar -czvf archive.tar.gz archive_lab

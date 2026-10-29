@@ -1,0 +1,5 @@
+# Linux Lab 9 Disk Storage
+# Question 5: Display the size of a selected directory including its subdirectories using du with an appropriate option.
+
+Answer / command:
+du -ah /path/to/directory | sort -h | tail -n 10

@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 9: Extract archive.tar.gz into a separate directory and verify the extracted files.
+
+Answer / command:
+mkdir -p extracted_gz; tar -xzvf archive.tar.gz -C extracted_gz

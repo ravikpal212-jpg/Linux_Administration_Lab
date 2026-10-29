@@ -1,0 +1,5 @@
+# Linux Lab 10 File Systems
+# Question 18: Correct an intentionally incorrect /etc/fstab entry for the dedicated test file system and verify that the corrected entry mounts successfully.
+
+Answer / command:
+sudoedit /etc/fstab  # correct the test entry; then sudo mount -a and findmnt /mnt/labfs

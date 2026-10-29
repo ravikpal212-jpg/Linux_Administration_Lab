@@ -1,0 +1,5 @@
+# Linux Lab 11 Archive Compression
+# Question 16: Create a tar archive, add another file to the archive, and verify that the new file is present.
+
+Answer / command:
+echo Extra > archive_lab/extra.txt; tar -uvf files.tar archive_lab/extra.txt; tar -tvf files.tar
