@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 6: Run the ps command in your terminal and record how many processes are ac ve in your current shell session.
+
+Answer / command:
+ps

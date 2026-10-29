@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 15: Display the kernel informa on and system architecture using uname -a.
+
+Answer / command:
+uname -a

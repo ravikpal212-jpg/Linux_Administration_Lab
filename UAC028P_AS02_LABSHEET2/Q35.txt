@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 35: Explain why execu ng apt install <package> without running apt update ﬁrst on a fresh session might cause installa on failure. Hard / Challenge Exercises (Q36–Q50)
+
+Answer / command:
+apt update refreshes package indexes so the package manager can find current versions and dependencies

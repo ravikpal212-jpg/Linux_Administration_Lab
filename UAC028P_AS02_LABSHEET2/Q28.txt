@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 28: Remove the tree package a er tes ng, and verify its uninstalla on using the package manager list command.
+
+Answer / command:
+sudo apt remove tree && apt list --installed 2>/dev/null | grep '^tree/'

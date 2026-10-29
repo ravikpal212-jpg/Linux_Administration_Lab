@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 16: Display a snapshot of all processes running for your user account using ps -u $USER.
+
+Answer / command:
+ps -u "$USER"

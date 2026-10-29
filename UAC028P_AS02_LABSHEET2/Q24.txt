@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 24: Launch the top interac ve process monitor, press 'P' to sort processes by CPU u liza on, and press 'q' to exit.
+
+Answer / command:
+top  # press P to sort by CPU; q to quit

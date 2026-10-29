@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 46: Set the Set User ID (SUID) bit on an executable binary custom_tool, write the chmod command, and explain its execu on privilege implica ons.
+
+Answer / command:
+sudo chmod u+s custom_tool  # SUID runs executable with file owner's effective UID; use only trusted binaries

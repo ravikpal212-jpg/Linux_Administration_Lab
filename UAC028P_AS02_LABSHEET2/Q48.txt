@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 48: Set the S cky Bit on a directory /public_tmp using symbolic (chmod o+t) or octal (chmod 1777) mode, and explain why it prevents unauthorized ﬁle dele on.
+
+Answer / command:
+sudo chmod o+t /public_tmp  # sticky bit limits deletion to file owner, directory owner or root

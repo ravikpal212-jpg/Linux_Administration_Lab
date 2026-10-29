@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 14: Send a background job with Job ID 1 to resume execu on in the background using the bg command.
+
+Answer / command:
+bg %1

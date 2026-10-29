@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 36: Create a shell script ﬁle, grant execute permissions using symbolic mode (chmod +x), execute it with ./script.sh, and explain why execu on fails if the shebang line (#!/bin/bash) is missing or invalid.
+
+Answer / command:
+printf '#!/bin/bash\necho Script running\n' > script.sh; chmod +x script.sh; ./script.sh  # include valid shebang

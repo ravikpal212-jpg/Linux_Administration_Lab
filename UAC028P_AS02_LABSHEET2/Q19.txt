@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 19: Display the list of currently installed packages on your system using apt list --installed (or dnf list installed).
+
+Answer / command:
+apt list --installed 2>/dev/null || dnf list installed

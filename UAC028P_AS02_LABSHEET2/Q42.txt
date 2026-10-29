@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 42: Explain the security risks associated with running chmod 777 on a sensi ve system conﬁgura on ﬁle in produc on.
+
+Answer / command:
+chmod 777 allows everyone to read, write and execute; this can expose or alter sensitive configuration

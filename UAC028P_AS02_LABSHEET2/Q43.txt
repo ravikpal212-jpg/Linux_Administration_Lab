@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 43: Install a package (e.g., tree), and use the low-level package tool (dpkg -L <pkg> or rpm -ql <pkg>) to list every ﬁle installed onto the ﬁlesystem by that package.
+
+Answer / command:
+sudo dnf install tree; rpm -ql tree

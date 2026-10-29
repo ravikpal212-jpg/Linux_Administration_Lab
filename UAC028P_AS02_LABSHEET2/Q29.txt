@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 29: Check your default umask se ng, create a new ﬁle named test_mask.txt, and analyze how umask inﬂuenced its permissions.
+
+Answer / command:
+umask; touch test_mask.txt; ls -l test_mask.txt; mkdir test_mask_dir; ls -ld test_mask_dir

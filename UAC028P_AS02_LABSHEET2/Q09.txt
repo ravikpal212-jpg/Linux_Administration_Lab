@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 9: Use the kill command with the Process ID (PID) to terminate the ac ve sleep process created in Exercise 8.
+
+Answer / command:
+jobs -l  # note PID, then: kill <PID>

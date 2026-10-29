@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 41: Construct a single-line command using ﬁnd and chmod to grant execute permissions (+x) to all .sh ﬁles in your working directory tree simultaneously.
+
+Answer / command:
+find . -type f -name '*.sh' -exec chmod +x {} +

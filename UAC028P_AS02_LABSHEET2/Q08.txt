@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 8: Start a background process using sleep 60 & and immediately run jobs to verify that it is ac ve in the background.
+
+Answer / command:
+sleep 60 &; jobs

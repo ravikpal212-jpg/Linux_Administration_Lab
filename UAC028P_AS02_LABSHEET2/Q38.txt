@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 38: Start a background task with nice -n 15 sleep 300 &, locate its PID in top, and explain how the 'nice value' impacts CPU me alloca on.
+
+Answer / command:
+nice -n 15 sleep 300 &; ps -o pid,ni,cmd -C sleep  # higher nice value means lower scheduling priority

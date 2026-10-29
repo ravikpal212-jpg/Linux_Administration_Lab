@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 49: Demonstrate job management: Suspend a running command using Ctrl+Z, verify its stopped state with jobs, resume it in the background with bg, and then a ach it with fg.
+
+Answer / command:
+sleep 300  # press Ctrl+Z; jobs; bg %1; fg %1

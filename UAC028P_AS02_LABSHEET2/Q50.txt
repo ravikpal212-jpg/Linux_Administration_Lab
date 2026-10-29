@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 50: Write a shell command pipeline that iden ﬁes the process consuming the most memory (%MEM), logs its PID and details to a ﬁle named top_memory.log, and gracefully requests its termina on using SIGTERM.
+
+Answer / command:
+ps aux --sort=-%mem | head -n 2 | tee top_memory.log; kill -TERM <PID>  # replace PID after verifying the selected process

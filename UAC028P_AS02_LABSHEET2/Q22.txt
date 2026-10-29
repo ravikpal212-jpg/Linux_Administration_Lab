@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 22: Explain the exact diﬀerence in rights between running chmod 700 ﬁle and running chmod 007 ﬁle.
+
+Answer / command:
+chmod 700 file gives owner rwx only; chmod 007 gives others rwx only and owner/group no permissions

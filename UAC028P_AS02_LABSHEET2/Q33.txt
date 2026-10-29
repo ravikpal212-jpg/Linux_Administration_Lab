@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 33: Modify the priority of an already running process using the renice command by specifying its PID.
+
+Answer / command:
+sudo renice 5 -p <PID>  # replace with the actual PID

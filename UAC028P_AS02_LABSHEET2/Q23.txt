@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 23: Use chown to change both the user owner and group owner of a ﬁle to student:student in a single command.
+
+Answer / command:
+sudo chown student:student filename

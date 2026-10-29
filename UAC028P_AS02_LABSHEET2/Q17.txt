@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 17: Use pkill to terminate a test process running under the name sleep.
+
+Answer / command:
+pkill -x sleep  # use only for a test sleep process

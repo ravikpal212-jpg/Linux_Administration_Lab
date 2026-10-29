@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 7: Run ps aux and count or es mate the total number of running processes across the en re opera ng system.
+
+Answer / command:
+ps aux | wc -l

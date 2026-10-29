@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 37: Set up permissions for shared.txt so the owner has read/write, the group has read-only, and others have zero access — write out both symbolic AND numeric commands.
+
+Answer / command:
+chmod 640 shared.txt; chmod u=rw,g=r,o= shared.txt

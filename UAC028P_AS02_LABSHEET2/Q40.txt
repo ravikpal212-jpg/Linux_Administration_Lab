@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 40: Display the top 5 CPU-consuming processes currently ac ve on the system using ps aux --sort=-%cpu | head -5.
+
+Answer / command:
+ps aux --sort=-%cpu | head -n 6

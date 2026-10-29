@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 21: Set permissions on script.sh so that the owner has full access (rwx), the group has read and execute (r- x), and others have zero permissions — write the numeric command.
+
+Answer / command:
+chmod 750 script.sh

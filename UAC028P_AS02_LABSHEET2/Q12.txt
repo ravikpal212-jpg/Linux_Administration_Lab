@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 12: Use symbolic chmod syntax to remove write permissions from the group on a ﬁle named document.txt.
+
+Answer / command:
+chmod g-w document.txt

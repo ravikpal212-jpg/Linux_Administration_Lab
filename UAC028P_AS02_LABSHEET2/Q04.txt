@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 4: Create an executable ﬁle named script.sh and grant execute permission exclusively to the owner using symbolic mode.
+
+Answer / command:
+touch script.sh && chmod u+x,go-x script.sh && ls -l script.sh

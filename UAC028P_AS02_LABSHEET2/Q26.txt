@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 26: Use pkill with a safe target process name to terminate all ac ve instances of that command simultaneously.
+
+Answer / command:
+pkill -x sleep  # ensure target is only the test process

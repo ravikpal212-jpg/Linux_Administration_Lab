@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 34: Search for the apache2 or nginx package in apt/dnf, install it, and check its system status using systemctl status.
+
+Answer / command:
+sudo dnf install nginx; systemctl status nginx --no-pager  # on Debian use apt install apache2

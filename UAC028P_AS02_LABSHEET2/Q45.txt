@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 45: Create two ﬁles owned by diﬀerent users (using sudo chown), then write a single ﬁnd command that ﬁlters and lists ﬁles owned by a speciﬁc user.
+
+Answer / command:
+sudo chown user1 file1; sudo chown user2 file2; find . -type f -user user1

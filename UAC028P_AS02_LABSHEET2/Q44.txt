@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 44: Conceptual Analysis: Explain the diﬀerence between process termina on via SIGTERM (Signal 15) vs SIGKILL (Signal 9), and why applica ons should handle SIGTERM.
+
+Answer / command:
+SIGTERM (15) requests graceful shutdown and can be handled; SIGKILL (9) cannot be caught or handled

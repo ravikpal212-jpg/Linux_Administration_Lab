@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 47: Set the Set Group ID (SGID) bit on a shared folder /shared_dir using octal mode (2775), and explain how newly created ﬁles inherit group ownership.
+
+Answer / command:
+sudo chmod 2775 /shared_dir  # SGID makes new entries inherit directory group

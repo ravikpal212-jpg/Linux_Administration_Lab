@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 27: Install the tree package using your system's package manager (apt or dnf), and run tree on your home directory.
+
+Answer / command:
+sudo apt install tree && tree ~  # or sudo dnf install tree

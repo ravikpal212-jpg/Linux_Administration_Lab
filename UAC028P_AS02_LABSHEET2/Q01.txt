@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 1: Create a ﬁle named notes.txt and display its permissions string using the ls -l command.
+
+Answer / command:
+touch notes.txt && ls -l notes.txt

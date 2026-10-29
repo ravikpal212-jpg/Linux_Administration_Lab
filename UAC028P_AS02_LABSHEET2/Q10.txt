@@ -1,0 +1,5 @@
+# Linux Administration Lab Sheet 2
+# Question 10: Search for an available so ware package named tree using your system's package manager without installing it.
+
+Answer / command:
+apt-cache search '^tree$'  # Debian/Ubuntu; dnf search tree on Fedora/RHEL
