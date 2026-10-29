@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 15: Display the current ACL of aclfile.txt using getfacl and identify the owner, group, user, group and mask entries.
+
+Answer / command:
+getfacl aclfile.txt

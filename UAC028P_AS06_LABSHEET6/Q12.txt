@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 12: Temporarily change the umask value to 027 and create a new file and directory. Observe and verify their resulting permissions.
+
+Answer / command:
+old=$(umask); umask 027; touch masked.txt; mkdir masked_dir; ls -l masked.txt; ls -ld masked_dir; umask "$old"

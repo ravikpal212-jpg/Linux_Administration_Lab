@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 5: List all files installed by a selected RPM package using rpm.
+
+Answer / command:
+rpm -ql bash

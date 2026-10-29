@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 3: Display a detailed process listing using ps aux and identify the CPU and memory usage fields.
+
+Answer / command:
+ps aux

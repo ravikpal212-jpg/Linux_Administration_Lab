@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 16: Use setfacl to give a specified user read and write permission on aclfile.txt without changing the normal owner/group permission bits. Verify using getfacl.
+
+Answer / command:
+sudo setfacl -m u:acluser:rw aclfile.txt; getfacl aclfile.txt

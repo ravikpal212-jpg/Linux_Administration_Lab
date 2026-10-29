@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 20: Clean up the packages and repository changes created during the lab and verify that no required system package or repository has been unintentionally modified.
+
+Answer / command:
+dnf repolist --all; dnf history; # remove only lab-installed packages and restore any lab-only repo changes

@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 4: Display the process hierarchy using ps with an option that shows parent-child relationships.
+
+Answer / command:
+ps -ef --forest

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 20: Create, modify, verify and clean up file permissions and ACLs in a complete workflow using chmod, umask, setfacl and getfacl.
+
+Answer / command:
+getfacl aclfile.txt; chmod 640 aclfile.txt; setfacl -m u:acluser:rw aclfile.txt; getfacl aclfile.txt; setfacl -b aclfile.txt; sudo userdel -r acluser; sudo groupdel aclgroup

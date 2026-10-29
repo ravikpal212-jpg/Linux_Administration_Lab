@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 7: Start htop and use its interactive interface to view processes and resource usage.
+
+Answer / command:
+htop  # press q to quit; install htop if needed

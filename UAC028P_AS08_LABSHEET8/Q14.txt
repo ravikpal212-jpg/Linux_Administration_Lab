@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 14: Update a selected installed package using dnf and verify the new version.
+
+Answer / command:
+sudo dnf upgrade tree; rpm -q tree

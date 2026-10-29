@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 10: Search the configured repositories for a package by name or keyword using dnf.
+
+Answer / command:
+dnf search tree

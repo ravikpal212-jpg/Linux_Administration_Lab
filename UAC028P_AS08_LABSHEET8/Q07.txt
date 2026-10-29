@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 7: Query the RPM database and display the installation date and other available information for a selected package.
+
+Answer / command:
+rpm -qi bash | grep -E 'Name|Version|Install Date|Vendor'

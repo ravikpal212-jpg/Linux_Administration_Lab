@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 15: Use kill with a selected PID to terminate a process and verify that the process has ended.
+
+Answer / command:
+kill <PID>; ps -p <PID>

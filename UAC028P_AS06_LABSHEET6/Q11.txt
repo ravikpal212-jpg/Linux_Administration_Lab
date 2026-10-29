@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 11: Display the current umask value and record the result.
+
+Answer / command:
+umask

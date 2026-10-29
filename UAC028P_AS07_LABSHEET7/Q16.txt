@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 16: Use kill -TERM with a selected PID and explain why SIGTERM is normally preferred before forceful termination.
+
+Answer / command:
+kill -TERM <PID>; # SIGTERM allows graceful shutdown; verify with ps -p <PID>

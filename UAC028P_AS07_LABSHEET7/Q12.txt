@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 12: Suspend a running foreground process using Ctrl+Z and verify that the job has been stopped.
+
+Answer / command:
+sleep 300  # press Ctrl+Z; jobs

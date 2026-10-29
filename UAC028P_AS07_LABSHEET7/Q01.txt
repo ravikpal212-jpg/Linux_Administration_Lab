@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 1: Display the processes associated with the current user using ps and observe the PID, terminal and process status.
+
+Answer / command:
+ps -u "$USER" -o pid,tty,stat,cmd

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 2: Display the long listing of permissions.txt and identify the owner, group and current rwx permissions.
+
+Answer / command:
+ls -l lab6/permissions.txt

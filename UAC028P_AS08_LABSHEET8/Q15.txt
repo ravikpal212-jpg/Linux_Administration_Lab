@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 15: Update all packages for which updates are available and verify the result.
+
+Answer / command:
+sudo dnf upgrade

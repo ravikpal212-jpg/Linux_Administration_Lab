@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 8: List the currently configured DNF repositories and identify their enabled/disabled status.
+
+Answer / command:
+dnf repolist --all

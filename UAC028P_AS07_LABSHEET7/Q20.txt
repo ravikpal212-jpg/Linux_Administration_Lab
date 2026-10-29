@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 20: Perform a complete process-management workflow: inspect processes, start a foreground job, move a job to the background, suspend/resume it, terminate it with kill, and clean up all test processes.
+
+Answer / command:
+ps -u "$USER"; sleep 300; Ctrl+C; sleep 300 &; jobs; fg %1; Ctrl+Z; bg %1; kill %1  # clean up test jobs

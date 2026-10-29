@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 11: Bring a background job to the foreground using the fg command and then terminate it safely.
+
+Answer / command:
+fg %1  # press Ctrl+C to terminate test job

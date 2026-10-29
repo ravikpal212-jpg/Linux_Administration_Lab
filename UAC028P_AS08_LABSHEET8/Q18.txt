@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 18: Display the transaction history of DNF and identify a recent install, update or removal transaction.
+
+Answer / command:
+dnf history; dnf history info last

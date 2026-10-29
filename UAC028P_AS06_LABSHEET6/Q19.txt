@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 19: Set a default ACL on a directory so that newly created files inside it inherit the required access permissions. Create a test file and verify the inherited ACL.
+
+Answer / command:
+mkdir acldir; setfacl -d -m u:acluser:rwx,g:aclgroup:rx acldir; touch acldir/test.txt; getfacl acldir/test.txt

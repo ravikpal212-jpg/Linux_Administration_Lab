@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 16: Remove a selected test package using dnf and verify that it has been removed.
+
+Answer / command:
+sudo dnf remove tree; rpm -q tree

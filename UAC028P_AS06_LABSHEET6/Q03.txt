@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 3: Change the permissions of permissions.txt using symbolic notation so that the owner has read, write and execute permissions, the group has read and write permissions, and others have no permissions.
+
+Answer / command:
+chmod u=rwx,g=rw,o= lab6/permissions.txt

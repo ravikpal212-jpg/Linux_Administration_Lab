@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 1: Create a directory named lab6 and a text file named permissions.txt inside it.
+
+Answer / command:
+mkdir -p lab6; touch lab6/permissions.txt

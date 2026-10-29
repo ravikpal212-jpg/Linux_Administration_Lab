@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 13: Resume a stopped job in the background using bg and verify its status using jobs.
+
+Answer / command:
+bg %1; jobs

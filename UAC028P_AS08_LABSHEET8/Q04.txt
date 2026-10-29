@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 4: Display detailed information about an installed package using rpm.
+
+Answer / command:
+rpm -qi bash

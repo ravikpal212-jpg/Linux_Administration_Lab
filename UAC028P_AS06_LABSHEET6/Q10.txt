@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 10: Explain and demonstrate the difference between file and directory read, write and execute permissions by testing access to a practice directory.
+
+Answer / command:
+For files: r=read, w=modify, x=execute; for directories: r=list names, w=create/delete entries, x=traverse. Test only in a practice directory.

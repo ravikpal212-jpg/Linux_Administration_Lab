@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 9: Start a long-running command in the background using the & operator and display the assigned job information.
+
+Answer / command:
+sleep 300 &; jobs -l

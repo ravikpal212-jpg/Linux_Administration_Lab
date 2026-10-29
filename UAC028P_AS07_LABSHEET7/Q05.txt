@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 5: Start the top command and observe the running processes, CPU usage, memory usage and process IDs.
+
+Answer / command:
+top  # press q to quit

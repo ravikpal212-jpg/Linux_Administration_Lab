@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 6: Identify which installed RPM package owns a specified file on the system.
+
+Answer / command:
+rpm -qf /bin/bash

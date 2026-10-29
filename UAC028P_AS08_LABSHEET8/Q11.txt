@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 11: Install a suitable package using dnf and verify that the package has been installed.
+
+Answer / command:
+sudo dnf install tree; rpm -q tree

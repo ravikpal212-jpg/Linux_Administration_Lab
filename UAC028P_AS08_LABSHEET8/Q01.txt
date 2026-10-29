@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 1: Display the installed RPM version and verify that the rpm command is available on the system.
+
+Answer / command:
+rpm --version

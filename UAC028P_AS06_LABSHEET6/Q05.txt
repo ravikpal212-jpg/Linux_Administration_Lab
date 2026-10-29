@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 5: Change the permissions of permissions.txt using numeric mode 755 and verify the result.
+
+Answer / command:
+chmod 755 lab6/permissions.txt; ls -l lab6/permissions.txt

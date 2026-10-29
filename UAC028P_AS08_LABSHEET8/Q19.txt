@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 19: Use rpm to verify package installation and use dnf to install, update and remove a suitable test package as a complete workflow.
+
+Answer / command:
+rpm -q tree; sudo dnf install tree; sudo dnf upgrade tree; sudo dnf remove tree

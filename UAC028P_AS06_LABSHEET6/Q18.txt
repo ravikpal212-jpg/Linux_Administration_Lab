@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 18: Modify and remove a specific ACL entry from aclfile.txt using setfacl. Verify the changes using getfacl. Subject - Linux Lab Subject Code - UAC02P
+
+Answer / command:
+sudo setfacl -m u:acluser:r aclfile.txt; sudo setfacl -x u:acluser aclfile.txt; getfacl aclfile.txt

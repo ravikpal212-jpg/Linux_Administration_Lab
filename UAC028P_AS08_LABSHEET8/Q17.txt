@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 17: Demonstrate how to identify the repository that provides a selected package.
+
+Answer / command:
+dnf repoquery --info tree

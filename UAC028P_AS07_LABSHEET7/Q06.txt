@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 6: Use top to identify a process with high CPU or memory usage and record its PID.
+
+Answer / command:
+top  # sort by CPU with P or memory with M; note PID

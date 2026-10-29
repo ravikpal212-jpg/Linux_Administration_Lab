@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 18: Use pkill to terminate a selected test process by its process name and verify that it has ended.
+
+Answer / command:
+pkill -x sleep  # use only when all matching sleep processes are test processes

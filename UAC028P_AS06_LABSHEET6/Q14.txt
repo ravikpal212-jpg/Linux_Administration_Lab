@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 14: Create a new user and group for ACL practice, then create a file named aclfile.txt for testing.
+
+Answer / command:
+sudo groupadd aclgroup; sudo useradd -m acluser; touch aclfile.txt

@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 9: Display detailed information about a selected DNF repository.
+
+Answer / command:
+dnf repoinfo <repoid>

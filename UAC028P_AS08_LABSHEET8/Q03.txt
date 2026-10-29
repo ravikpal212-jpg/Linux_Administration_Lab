@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 3: Search the installed RPM database for a selected package and determine whether it is installed.
+
+Answer / command:
+rpm -q tree

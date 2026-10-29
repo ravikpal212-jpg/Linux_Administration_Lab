@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 2: Display all processes running on the system using an appropriate ps option and identify the PID, user and command fields.
+
+Answer / command:
+ps -ef

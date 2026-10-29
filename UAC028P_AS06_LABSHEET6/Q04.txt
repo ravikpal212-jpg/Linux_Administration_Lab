@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 4: Change the permissions of permissions.txt using numeric mode 640 and verify the result.
+
+Answer / command:
+chmod 640 lab6/permissions.txt; ls -l lab6/permissions.txt

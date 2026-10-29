@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 7: Add read and execute permissions for the group of permissions.txt without changing the owner's permissions.
+
+Answer / command:
+chmod g+rx lab6/permissions.txt

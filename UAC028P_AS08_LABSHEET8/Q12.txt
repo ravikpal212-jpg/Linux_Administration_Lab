@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 12: Install a package from an available repository and verify its installed version using rpm and dnf.
+
+Answer / command:
+sudo dnf install tree; rpm -q tree; dnf info tree

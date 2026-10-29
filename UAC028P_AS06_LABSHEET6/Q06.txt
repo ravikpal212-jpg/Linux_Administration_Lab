@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 6: Remove execute permission from the owner of permissions.txt using symbolic chmod notation.
+
+Answer / command:
+chmod u-x lab6/permissions.txt

@@ -1,0 +1,5 @@
+# Linux Lab 8 Package Management
+# Question 13: Display available updates for installed packages using dnf without immediately applying them.
+
+Answer / command:
+dnf check-update

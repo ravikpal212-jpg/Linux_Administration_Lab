@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 8: Start a long-running command in the foreground and terminate it using Ctrl+C.
+
+Answer / command:
+sleep 300  # press Ctrl+C

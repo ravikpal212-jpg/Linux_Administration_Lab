@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 9: Create a directory named securedata and set its permissions to 750 using numeric notation.
+
+Answer / command:
+mkdir -p securedata; chmod 750 securedata; ls -ld securedata

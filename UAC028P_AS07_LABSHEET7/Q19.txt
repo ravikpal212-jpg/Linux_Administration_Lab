@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 19: Use ps, jobs and appropriate process-control commands to identify and manage multiple test processes safely. Subject - Linux Lab Subject Code - UAC02P
+
+Answer / command:
+sleep 300 &; sleep 400 &; jobs -l; ps -u "$USER"

@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 13: Restore the umask to its previous value and verify the current umask.
+
+Answer / command:
+umask  # if you saved old value in shell: umask "$old"; umask

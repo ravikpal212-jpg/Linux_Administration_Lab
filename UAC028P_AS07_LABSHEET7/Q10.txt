@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 10: Display the jobs currently running in the shell using the jobs command.
+
+Answer / command:
+jobs

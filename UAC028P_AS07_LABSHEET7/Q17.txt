@@ -1,0 +1,5 @@
+# Linux Lab 7 Process Management
+# Question 17: Use kill -KILL with a selected test process when normal termination does not work, and verify the result.
+
+Answer / command:
+kill -KILL <PID>; ps -p <PID>  # only test process, after TERM fails

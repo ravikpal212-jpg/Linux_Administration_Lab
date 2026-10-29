@@ -1,0 +1,5 @@
+# Linux Lab Sheet 6 Permissions ACL
+# Question 8: Remove all permissions from others for permissions.txt and verify the result.
+
+Answer / command:
+chmod o= lab6/permissions.txt; ls -l lab6/permissions.txt
